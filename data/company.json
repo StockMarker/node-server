@@ -41,14 +41,5 @@
         "Sector": "Consumer Discretionary",
         "Industry": "Retail - Discretionary",
         "Sub-Industry": "Consumer Elec & Applc Stores"
-    },
-    , {
-        "Ticker": "AAPL",
-        "Company": "Apple Inc",
-        "Description": "Apple Inc. designs, manufactures, and markets personal computers and related personal computing and mobile communication devices along with a variety of related software, services, peripherals, and networking solutions. The Company sells its products worldwide through its online stores, its retail stores, its direct sales force, third-party wholesalers, and resellers.",
-        "Sector": "Technology",
-        "Industry": "Hardware",
-        "Sub-Industry": "Communications Equipment"
     }
-
 ]
