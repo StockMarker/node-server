@@ -1,0 +1,45 @@
+[{
+        "Ticker": "RSH",
+        "Company": "Radioshack",
+        "Description": "RadioShack Corporation operates a chain of retail consumer electronics goods and services stores located throughout the United States and Mexico, along with wireless phone kiosks in the US, and dealer outlets worldwide. The Company offers consumers wireless phone and other electronic products and services from national brands and exclusive private brands and wireless carriers.",
+        "Sector": "Consumer Discretionary",
+        "Industry": "Retail - Discretionary",
+        "Sub-Industry": "Consumer Elec & Applc Stores"
+
+    }, {
+        "Ticker": "SHLD",
+        "Company": "Sears Holding Corp",
+        "Description": "Sears Holdings Corporation is a broadline retailer with full-line and specialty retail stores in the United States and Canada. The Company retails home appliances, as well as tools, lawn and garden products, home electronics, and other products. Sears Holdings also provides automotive repair and maintenance.",
+        "Sector": "Consumer Discretionary",
+        "Industry": "Retail - Discretionary",
+        "Sub-Industry": "Department Stores"
+    }, {
+        "Ticker": "WTSL",
+        "Company": "Wet Seal Inc",
+        "Description": "Wet Seal, Inc. retails fashionable and contemporary apparel and accessory items. The Company operates its stores in the United States, the District of Columbia, and Puerto Rico. Wet Seal operates its stores under the names Wet Seal Contempo Casuals, Limbo Lounge, and Arden B. stores.",
+        "Sector": "Consumer Discretionary",
+        "Industry": "Retail - Discretionary",
+        "Sub-Industry": "Specialty Apparel Stores"
+    }, {
+        "Ticker": "KIORQ",
+        "Company": "Kior Inc",
+        "Description": "KiOR, Inc. intends to produce renewable fuels. The Company developed a technology that converts non-food biomass into hydrocarbon-based oil. The renewable crude oil can be refined, using standard refinery equipment, into gasoline and diesel fuels.",
+        "Sector": "Energy",
+        "Industry": "Renewable energy",
+        "Sub-Industry": "Biofuels"
+    }, {
+        "Ticker": "CZR",
+        "Company": "Caesa's Entertainment Corp",
+        "Description": "Caesars Entertainment Corp., is a gaming company. The Company operates casino resorts on multiple continents. Caesars' also owns an on-line gaming business, providing for real money casino, bingo and poker games in the United Kingdom and play for fun offerings in other jurisdictions.",
+        "Sector": "Consumer Discretionary",
+        "Industry": "Gaming, Lodging & Restaurants",
+        "Sub-Industry": "Casinos & Gaming"
+    }, {
+        "Ticker": "CPU",
+        "Company": "Compusa Inc",
+        "Description": "KiOR, Inc. intends to produce renewable fuels. The Company developed a technology that converts non-food biomass into hydrocarbon-based oil. The renewable crude oil can be refined, using standard refinery equipment, into gasoline and diesel fuels.",
+        "Sector": "Consumer Discretionary",
+        "Industry": "Retail - Discretionary",
+        "Sub-Industry": "Consumer Elec & Applc Stores"
+    }
+]
