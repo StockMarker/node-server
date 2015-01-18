@@ -1,6 +1,5 @@
 import json
 import flask
-import numpy as np
 from flask import request
 import pdb
 from flask import jsonify
